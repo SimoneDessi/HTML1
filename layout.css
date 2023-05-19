@@ -1,0 +1,35 @@
+/* * {
+  margin: 1;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(23, 130, 223);
+} */
+body {
+  background-color: rgb(135, 135, 170);
+}
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 100px;
+  margin-left: 400px;
+  text-align: center;
+}
+a {
+  font-size: medium;
+}
+ol {
+  color: aqua;
+}
+ul {
+  color: aquamarine;
+  margin:auto ;
+}
+ #img1 {
+  margin-top: 100px;
+  margin-left: 400px;
+height: 100px;
+width: 100px;
+border-style:dashed  magenta 20px ;
+}
+#img2 {
+  border-radius: 50%;
+}
